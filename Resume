@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Дмитрий Скворцов</title>
+  <h1 align="center" style="background-color:#A9A9A9;">Дмитрий Скворцов</h1>
+  <a href="https://hh.ru/resume/9a8f08efff0afda0d50039ed1f326b6a457547" target="_blank"><img align="right"
+      src="https://sun9-84.userapi.com/s/v1/if1/TitbZVGLjggmdzsWlSwPHOcWMSRJlMeRbesIo-Sghx7KVKSOpcbjcjykbo08XTlVBrSrPqGN.jpg?size=200x200&quality=96&crop=95,0,754,754&ava=1"
+      height="250px" width="250px" border="1px" /> </a>
+  <hr />
+</head>
+
+<body style="background-color:#DCDCDC;">
+  <div style="background-color:#A9A9A9;">
+    <p><b>Должность:</b>Разрабочик</p>
+
+    <p><b>Город:</b>Москва</p>
+    <p><sub><b>Возраст:</b>31 год</sub>
+    </p>
+  </div>
+  <div style="background-color:#A9A9A9;">
+    <h5><span>Мои Навыки</span></h5>
+    <ol>
+      <li>Html</li>
+      <li>Python</li>
+      <li>Golang</li>
+      <li>JavaScript</li>
+    </ol>
+  </div>
+  <table border="2" bgcolor="#A9A9A9">
+    <tr>
+      <td>Период</td>
+      <td>Место Работы</td>
+      <td>Должность</td>
+      <td>Обязанности</td>
+    </tr>
+    <tr>
+      <th>декабрь 2021- по настоящее время</th>
+      <th><a href="https://wormsoft.ru/" target="_blank">Wormsoft</a></th>
+      <th>QA Специалист</th>
+      <th>
+        <ol>
+          <li>Тест-Дизайн</li>
+          <li>Тестирование Front-end</li>
+          <li>Тестирование API</li>
+        </ol>
+      </th>
+    </tr>
+    <tr>
+      <th>Январь 2018-Декабрь 2018</th>
+      <th><a href="https://qiwi.com/bank" target="_blank">Киви банк</th>
+      <th>Старший специалист</th>
+      <th></th>
+    </tr>
+    <tr>
+      <th>Январь 2015- по настоящее время</th>
+      <th>Индивидуальный предприниматель</th>
+      <th>Бухгалтер</th>
+      <th></th>
+    </tr>
+  </table>
+  
+  <div style="background-color:#A9A9A9;">
+    <input type="checkbox" name="Задания" value="1" />Заголовок<br />
+    <input type="checkbox" name="Задания" value="2" />Текст с описанием<br />
+    <input type="checkbox" name="Задания" value="3" />Фотография<br />
+    <input type="checkbox" name="Задания" value="4" />Нумерованый список<br />
+    <input type="checkbox" name="Задания" value="5" />Несколько chekbox-ов<br />
+    <input type="checkbox" name="Задания" value="6" />Таблица на 3 столбца<br />
+  </div>
+</body>
+
+
+</html>
